@@ -4,5 +4,5 @@
 
 void print_hello_world()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Intermediate Project - Renamed!\n";
 }

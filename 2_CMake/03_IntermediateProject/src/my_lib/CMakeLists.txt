@@ -1,4 +1,4 @@
-add_library(${LIBRARY_NAME} STATIC "my_lib.cc")
+add_library(${LIBRARY_NAME} STATIC "my_lib.cpp")
 # Include dir to header files
 # This does not have to be set, to be able to compile the program
 # However, for MSVC builds this is needed, to have the headers listed in VS.
